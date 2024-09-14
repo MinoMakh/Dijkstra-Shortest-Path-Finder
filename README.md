@@ -2,7 +2,7 @@
 
 <br>
 
-![Dijkstra's Algorithm](examples/Dijkstra.png)
+![Dijkstra's Algorithm](src/Dijkstra.png)
 
 <br>
 
