@@ -1,0 +1,186 @@
+####Number of vertex,Number of edges####
+51,131
+####Country,Longitude,Latitude####
+X,45,45
+Montevideo,-34.9011,-56.1645
+Brasilia,-15.8267,-47.9218
+Tokyo,35.6895,139.6917
+Washington D.C,38.9072,-77.0369
+London, 51.5074, -0.1278
+Beijing, 39.9042, 116.4074
+Moscow, 55.7558, 37.6176
+Cairo, 30.0444, 31.2357
+Berlin, 52.5200, 13.4050
+Paris, 48.8566, 2.3522
+Rome, 41.9028, 12.4964
+New Delhi, 28.6139, 77.2090
+Canberra, -35.2809, 149.1300
+Ottawa, 45.4215, -75.6910
+Pretoria, -25.7463, 28.1871
+Buenos Aires, -34.6037, -58.3816
+Riyadh, 24.7136, 46.6753
+Tehran, 35.6892, 51.3890
+Jakarta, -6.2088, 106.8456
+Mexico City, 19.4326, -99.1332
+Seoul, 37.5665, 126.9780
+Bangkok, 13.7563, 100.5018
+Madrid, 40.4168, -3.7038
+Rome, 41.9028, 12.4964
+Nairobi, -1.2921, 36.8219
+Dublin, 53.3498, -6.2603
+Oslo, 59.9139, 10.7522
+Stockholm, 59.3293, 18.0686
+Helsinki, 60.1695, 24.9354
+Athens, 37.9838, 23.7275
+Bogota,4.7110,-74.0721
+Copenhagen, 55.6761, 12.5683
+Caracas,10.4806,-66.9036
+Warsaw, 52.2297, 21.0122
+Jerusalem,31.7683,35.2137
+Budapest, 47.4979, 19.0402
+Bucharest, 44.4268, 26.1025
+Ankara, 39.9334, 32.8597
+Lisbon, 38.7223, -9.1393
+Brussels, 50.8503, 4.3517
+Seoul, 37.5665, 126.9780
+Hanoi, 21.0285, 105.8542
+Wellington, -41.2865, 174.7762
+Islamabad, 33.6844, 73.0479
+Kuala Lumpur, 3.1390, 101.6869
+Manila, 14.5995, 120.9842
+Singapore, 1.3521, 103.8198
+Stockholm, 59.3293, 18.0686
+Riyadh, 24.7136, 46.6753
+Ottawa, 45.4215, -75.6910
+#####Country1,Country2####
+Brasilia,Riyadh
+London,Oslo
+Cairo,Islamabad
+Tokyo,Manila
+Washington D.C,Mexico City
+Berlin,Warsaw
+Paris,Brussels
+New Delhi,Islamabad
+Canberra,Wellington
+Ottawa,Washington D.C
+Pretoria,Nairobi
+Buenos Aires,Montevideo
+Riyadh,Tehran
+Tehran,Islamabad
+Jakarta,Kuala Lumpur
+Mexico City,Ottawa
+Seoul,Beijing
+Bangkok,Hanoi
+Madrid,Lisbon
+Rome,Athens
+Nairobi,Pretoria
+Dublin,London
+Oslo,Stockholm
+Stockholm,Helsinki
+Helsinki,Oslo
+Athens,Rome
+Bogota,Brussels
+Copenhagen,Oslo
+Caracas,Jerusalem
+Warsaw,Berlin
+Jerusalem,Caracas
+Budapest,Caracas
+Bucharest,Budapest
+Ankara,Athens
+Lisbon,Madrid
+Brussels,Paris
+Hanoi,Bangkok
+Wellington,Canberra
+Islamabad,New Delhi
+Kuala Lumpur,Jakarta
+Manila,Tokyo
+Singapore,Kuala Lumpur
+Oslo,Stockholm
+Riyadh,Ankara
+Paris,Brussels
+Oslo,Stockholm
+Stockholm,Helsinki
+Oslo,Copenhagen
+Brussels,Bogota
+Seoul,Beijing
+Beijing,Seoul
+Tehran,Riyadh
+Riyadh,Tehran
+Tehran,Riyadh
+Islamabad,Tehran
+Tehran,Islamabad
+Jakarta,Manila
+Manila,Jakarta
+Ottawa,Washington D.C
+Washington D.C,Ottawa
+Berlin,Warsaw
+Warsaw,Berlin
+Lisbon,Madrid
+Madrid,Lisbon
+Montevideo,Buenos Aires
+Athens,Rome
+Rome,Athens
+Wellington,Canberra
+Canberra,Wellington
+Moscow,Tehran
+Tehran,Moscow
+Bogota,Paris
+Brussels,Paris
+Berlin,Warsaw
+Warsaw,Berlin
+New Delhi,Islamabad
+Islamabad,New Delhi
+Tokyo,Seoul
+Seoul,Tokyo
+London,Dublin
+Dublin,London
+Kuala Lumpur,Singapore
+Singapore,Kuala Lumpur
+Cairo,Riyadh
+Riyadh,Cairo
+Rome,Athens
+Athens,Rome
+Madrid,Lisbon
+Lisbon,Madrid
+Ankara,Tehran
+Tehran,Ankara
+Copenhagen,Oslo
+Oslo,Copenhagen
+Stockholm,Oslo
+Oslo,Stockholm
+Warsaw,Berlin
+Brasilia,Washington D.C
+Washington D.C,Moscow
+Moscow,Tokyo
+Caracas,Moscow
+Moscow,Wellington
+Nairobi,Brasilia
+Ankara,Moscow
+Moscow,Ankara
+Ottawa,Wellington
+Beijing,Moscow
+Moscow,Ankara
+Ankara,Madrid
+Lisbon,Rome
+Rome,Jerusalem
+Jerusalem,Bogota
+Jerusalem,Beijing
+Beijing,Jerusalem
+Moscow,Jerusalem
+Washington D.C,Pretoria
+Pretoria,Ankara
+Ankara,Dublin
+Canberra,Jerusalem
+Jerusalem,Mexico City
+Mexico City,Seoul
+Seoul,Ankara
+Ankara,Paris
+Paris,Dublin
+Dublin,Jerusalem
+Jerusalem,Manila
+Manila,Bangkok
+Bangkok,Jerusalem
+Jerusalem,Tokyo
+Tokyo,Brasilia
+Brasilia,Tokyo
+Manila,X
