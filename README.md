@@ -2,6 +2,10 @@
 
 <br>
 
+![Dijkstra's Algorithm](examples/Dijkstra.png)
+
+<br>
+
 **Project Overview**
 
 This project implements Dijkstra's algorithm to find the **shortest route** between cities on a map. The algorithm calculates the **least-cost path** based on the Euclidean distances between cities. The program allows users to choose two cities and find the route with the **lowest price**, using JavaFX for a user-friendly graphical user interface (GUI).
